@@ -12,7 +12,7 @@
 			<RowDefinition Height="*" />
 		</Grid.RowDefinitions>
 		<Grid>
-			<TextBlock VerticalAlignment="Center" Margin="10,0,0,0" FontSize="24" HorizontalAlignment="Left">Chess</TextBlock>
+			<TextBlock VerticalAlignment="Center" Margin="10,0,0,0" FontSize="24" HorizontalAlignment="Left">Chess owo</TextBlock>
 			<ComboBox Margin="0,12,10,12" VerticalAlignment="Center" FontSize="16" MaxWidth="140" HorizontalAlignment="Right" Width="122">
 				<ComboBoxItem Content="King"/>
 				<ComboBoxItem Content="Queen"/>
